@@ -26,4 +26,3 @@ def euclid(left, right):
 inpLeft = int(input('type in two positive integers:\n'))
 inpRight = int(input(''))
 print('the greatest divisor of', inpLeft, 'and', inpRight, 'is', '%d.' % euclid(inpLeft, inpRight))
-print('hello')
